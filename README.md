@@ -19,7 +19,7 @@ STEPS:
 1.Edit your fstab to mount your truenas share folder
 (#truenas
 //192.168.100.60/aaron-samba /mnt/truenas/ cifs credentials=/etc/.truenas_creds,iocharset=utf8,uid=1000,gid=1000,noperm 0 0)
-)
+)*should look like this*
 
 2.Make the truenas directory 
   (mkdir /mnt/truenas)
