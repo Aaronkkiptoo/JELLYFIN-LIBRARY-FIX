@@ -1,4 +1,4 @@
-# JELLYFIN (PLAYBACK ERROR/LIBRARY) FIX!
+# JELLYFIN (PLAYBACK ERROR/LIBRARY) FIX FOR TRUENAS!
 If you encounter the common library error on jellyfin then maybe your problem might be related to mine.This should fix it!
 
 THE PROBLEM:
